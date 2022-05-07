@@ -156,5 +156,8 @@ label span {
 
 .btn-save:hover {
   background: #ff6c89;
+  cursor: pointer;
 }
+
+
 
