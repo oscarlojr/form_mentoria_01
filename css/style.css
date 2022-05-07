@@ -127,3 +127,34 @@ label span {
   color: #C1BCCC;
 }
 
+.buttom-wrapper {
+  width: 750px;
+  height: 160px;
+  border-radius: 0 0 8px 8px;
+  background: #535971;
+  margin: 0 auto;
+  padding: 52px 71px;
+
+}
+
+.btn-save {
+  width: 608px;
+  height: 55.65px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  border: none;
+  background: #FF5374;
+  font-family: var(--font-primary);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #ffffff;
+}
+
+.btn-save:hover {
+  background: #ff6c89;
+}
+
