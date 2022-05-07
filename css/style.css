@@ -52,8 +52,12 @@ form {
   padding: 64px;
 }
 
+form > fieldset:nth-child(2){
+  margin: 32px 0;
+}
+
 fieldset {
-  border: none;
+  border: none;  
 }
 
 fieldset legend {
@@ -63,6 +67,7 @@ fieldset legend {
   border-bottom: 1px solid #E6E6F0;
   width: 100%;
   padding-bottom: 16px;
+
 }
 
 .col-2 {
